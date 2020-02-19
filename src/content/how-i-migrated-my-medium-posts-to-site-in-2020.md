@@ -69,31 +69,36 @@ Gatsby has a huge range of themes, which they call starters that are available o
 
 ![](https://cdn-images-1.medium.com/max/8172/1*Il4o3vFD0kUFVEQ-CV7e7A.png)
 
-#### Migrate my medium posts to the site
+
+
+
+
+
 ---
+#### Migrate my medium posts to the site
+
 **1.Convert your medium post to markdown**
 
 Please note that I’ve taken this approach in a one by one fashion because mass migration can be tricky depending on your SPG. This is because, in every markdown file for SPGs, there’s a section of metadata at the beginning known as the frontmatter that is responsible for notifying its most important properties. After playing around with the available medium-to-markdown converters, I decided that it wasn’t worth the time to mass convert as every converter resulted in different frontmatter and markdown files. I went with the most straightforward [tool](https://medium-to-markdown.now.sh/), by Eric Clemmons. This converter was good because
 
 - All the image links are preserved and rendered by the browser upon conversion to HTML by the SPG
-
 - No attachments get generated
-
 - Clean and easy to edit
-
 - Easy access as the archive of the medium account isn’t needed for the converter to work
+
 ---
----
-**2. Place all your markdown files in the content folder**
+
+
+**2.Place all your markdown files in the content folder**
 
 One more step.
 
 Follow the frontmatter of example markdown files in the theme’s content folder
 
 That’s it. It’s go time!
----
 
-**3. Deploy to netlify**
+
+**3.Deploy to netlify**
 
 You can find the site created here: [https://suibinhong.me](https://suibinhong.me)
 
