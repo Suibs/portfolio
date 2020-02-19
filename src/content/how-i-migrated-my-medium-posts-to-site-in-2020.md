@@ -37,8 +37,6 @@ Wordpress in plain sight sounds like the most simple answer but with a membershi
 
 I ran the options down the list and spent the next few hours checking out both Jekyll and Hugo. The two options are highly used in the blogging industry and can be created quickly with a few clicks. The option I chose to go with was gatsbyjs because of how much it had been praised by my friends and the rapid load time I experienced with websites built by gatsby. With the experience I had with [react](https://reactjs.org/) last summer, I believed that gatsby will be easy to get used to.
 
----
-
 I looked around the website gatsby and formulated the following list of tasks to do:
 
 - Launch a gatsby site
@@ -51,7 +49,7 @@ You know the saying “walk before you run”. You may say “this is running!�
 
 - Migrate my medium posts to the site
 
----
+
 
 # Working on the task list
 
