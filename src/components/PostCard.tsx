@@ -233,12 +233,6 @@ const PostCard: React.FC<PostCardProps> = ({ post }) => {
               <AuthorNameTooltip className="author-name-tooltip">
                 {post.frontmatter.author.id}
               </AuthorNameTooltip>
-              <Link css={StaticAvatar} to={`/author/${_.kebabCase(post.frontmatter.author.id)}/`}>
-                <AuthorProfileImage
-                  src={post.frontmatter.author.avatar.children[0].fixed.src}
-                  alt={post.frontmatter.author.id}
-                />
-              </Link>
             </AuthorListItem>
           </AuthorList>
           <ReadingTime>{post.timeToRead} min read</ReadingTime>
