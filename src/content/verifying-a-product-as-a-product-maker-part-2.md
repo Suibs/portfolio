@@ -10,7 +10,7 @@ tags: ["product"]
 
 ---
 
-# [Verifying A Product As A Product Maker (Part 2)](https://medium.com/p/18537e6c5f90?source=post_stats_page---------------------------)
+# Verifying A Product As A Product Maker (Part 2)
 
 #### It’s going to be a long long journey, enjoy it whilst you’re here
 
