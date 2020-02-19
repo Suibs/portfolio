@@ -142,6 +142,5 @@ export const AuthorProfileImage = css`
   border-radius: 100%;
   object-fit: cover;
   margin-right: 15px;
-  width: 60px;
-  height: 60px;
+  width: 75px;
 `;
