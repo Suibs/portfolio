@@ -38,7 +38,8 @@ const About: React.FC = () => (
             <div className="post-content">
               <p>
                 Hi hey! I'm still working on this, please come back later :)
-                <iframe src="https://giphy.com/embed/1d7F9xyq6j7C1ojbC5" width="480" height="351" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/1d7F9xyq6j7C1ojbC5">via GIPHY</a></p>
+                <br />
+                <iframe src="https://giphy.com/embed/1d7F9xyq6j7C1ojbC5" width="480" height="351" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/1d7F9xyq6j7C1ojbC5"></a></p>
               </p>
             </div>
           </PostFullContent>
