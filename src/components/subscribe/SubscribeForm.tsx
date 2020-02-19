@@ -89,7 +89,9 @@ const SubscribeForm: React.FC = () => {
       method="post"
       id="mc-embedded-subscribe-form"
       name="mc-embedded-subscribe-form"
-      netlify-honeypot="bot-field" data-netlify="true"
+      netlify-honeypot="bot-field"
+      data-netlify="true"
+      netlify
     >
       {/* This is required for the form to work correctly  */}
       <FormGroup className="form-group">
