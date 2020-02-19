@@ -85,7 +85,6 @@ const FormGroup = styled.div`
 const SubscribeForm: React.FC = () => {
   return (
     <form
-      noValidate
       css={SubscribeFormStyles}
       method="post"
       id="mc-embedded-subscribe-form"

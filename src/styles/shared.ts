@@ -22,7 +22,7 @@ export const SiteMain = css`
 
 export const SiteTitle = styled.h1`
   z-index: 10;
-  margin: 0;
+  margin: 20px;
   padding: 0;
   font-size: 3.8rem;
   font-weight: 700;
