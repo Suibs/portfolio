@@ -90,9 +90,12 @@ const SubscribeForm: React.FC = () => {
       id="mc-embedded-subscribe-form"
       name="mc-embedded-subscribe-form"
       target="_blank"
+      netlify
+      data-netlify="true"
     >
       {/* This is required for the form to work correctly  */}
       <FormGroup className="form-group">
+        <input type="hidden" name="form-name" value="contact" />
         <SubscribeEmail
           className="subscribe-email"
           type="email"
