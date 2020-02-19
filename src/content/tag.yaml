@@ -1,3 +1,9 @@
 - id: speeches
   description: Some of the greatest words ever spoken.
   image: img/speeches-cover.jpg
+- id: product
+  description: A series documenting the journey of product making
+  image: img/product.jpg
+- id: learn
+  description: share and learn
+  image: img/learn.jpg
