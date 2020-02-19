@@ -87,7 +87,7 @@ const SubscribeForm: React.FC = () => {
     <form
       css={SubscribeFormStyles}
       method="post"
-      id="mc-embedded-subscribe-form"
+      id="contact"
       name="contact"
       netlify-honeypot="bot-field"
       data-netlify="true"
