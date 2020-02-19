@@ -10,10 +10,6 @@ tags: ["product"]
 
 ---
 
-
-
-![Photo by [Sterling Davis](https://unsplash.com/@sterlingdavisphotola?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)](https://cdn-images-1.medium.com/max/7500/0*gdntHmRtvr0PMLK6)
-
 # [Verifying A Product As A Product Maker (Part 2)](https://medium.com/p/18537e6c5f90?source=post_stats_page---------------------------)
 
 #### It’s going to be a long long journey, enjoy it whilst you’re here
