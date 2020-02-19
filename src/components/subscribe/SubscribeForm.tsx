@@ -90,7 +90,6 @@ const SubscribeForm: React.FC = () => {
       id="mc-embedded-subscribe-form"
       name="mc-embedded-subscribe-form"
       target="_blank"
-      netlify
     >
       {/* This is required for the form to work correctly  */}
       <FormGroup className="form-group">
@@ -100,6 +99,7 @@ const SubscribeForm: React.FC = () => {
           name="email"
           id="email"
           placeholder="youremail@example.com"
+          required
         />
       </FormGroup>
       <SubscribeFormButton type="submit">
