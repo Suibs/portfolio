@@ -1,7 +1,7 @@
 ---
 layout: post
 slug: how-i-migrated-my-medium-posts-to-site-in-2020
-title: "How I Migrated My Medium Posts To Site In 2020"
+title: "How I Migrated My Medium Posts To My Website In 2020"
 image: img/number.jpg
 date: "2020-02-19T15:11:55.000Z"
 draft: false
@@ -11,7 +11,7 @@ tags: ["learn"]
 ---
 
 
-# How I Migrated My Medium Posts To Site In 2020
+# How I Migrated My Medium Posts To My Website In 2020
 
 #### Why Gatsby.js is the GOAT for blog building right now
 

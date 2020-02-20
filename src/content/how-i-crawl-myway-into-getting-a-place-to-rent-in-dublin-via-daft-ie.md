@@ -1,7 +1,7 @@
 ---
 layout: post
-slug: how-i-crawl-myway-into-getting-a-place-to-rent-in-dublin-via-daft-ie
-title: "How I Crawl MyWay Into Getting A Place To Rent In Dublin Via Daft.ie"
+slug: how-i-crawl-my-way-into-getting-a-place-to-rent-in-dublin-via-daft-ie
+title: "How I Crawl My Way Into Getting A Place To Rent In Dublin Via Daft.ie"
 image: img/dublin.jpg
 date: "2020-02-15T15:11:55.000Z"
 draft: false
@@ -10,7 +10,7 @@ tags: ["learn"]
 
 ---
 
-
+# How I Crawl My Way Into Getting A Place To Rent In Dublin Via Daft.ie
 #### It’s actually easier than you think
 
 
