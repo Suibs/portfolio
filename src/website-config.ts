@@ -49,7 +49,7 @@ export interface WebsiteConfig {
 }
 
 const config: WebsiteConfig = {
-  title: 'Suibin',
+  title: 'Suibinhong.me | Personal Portfolio Page Of Suibin',
   description: 'Sometimes the solution to your problem is just a slice of cake.',
   coverImage: 'img/blog-cover.jpg',
   logo: 'img/ghost-logo.png',
